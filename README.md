@@ -1,2 +1,3 @@
 # ALT-F4
-SMACKATHON YCCE
+# Team Members - Amrut Paunikar, Avantika Shende , Manjiri Dombale , Shreyash Joshi 
+# SM24-12
